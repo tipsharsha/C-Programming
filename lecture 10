@@ -1,0 +1,26 @@
+logical bool
+&& is logical AND
+|| Logical OR
+! NOT
+What do they do
+They act upon operands that are themeselves logical expressions
+The individual logical expressions get combined into more complex conditions that are true or false
+$sizeof()
+gives the size of the data type in bytes
+$ More printf and scanf
+printf gives out number of charc in the ()
+printf("%d", printf("Something")) <- first compiler goes thro printf and gives Something9
+scanf similarly retruns the number of variables scaned
+for %d use %6d for 6 spaces before
+like %5.1f for digits before decimal and after
+\t for tab
+%08.2f for 0 for replaced with gaps and first 8 digits total including . and 2 digits after decimal
+\" for " dont use directly
+\n for line
+\0 for excluding what is printed next
+\\ for \
+for diff data types font use printf
+aray is a collection of similar data types
+%e is for for scientic notation first %10.1<- after decimal
+%+10.2f first prints + then normal float
+don't give a space before a charc in scanf 

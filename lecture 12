@@ -1,0 +1,35 @@
+puts or gets
+for bools
+&&  is for and
+|| for or condition
+switch is for different scenarios
+switch(expression)
+{
+    case (condition):
+
+}
+No two cases can have the same value
+two case can have same condition
+nesting switch
+switch takes int or char
+constants for conditions
+they must be unique
+ends with a colon
+x = condition?ex1:exp2
+if condition then x takes ex1 else exp2
+goto  statements
+ uncontional
+ goto is recall a function
+don't use heavily
+loops
+while (exp)
+{
+    statement;
+
+
+
+
+
+    ....
+}
+for (initialise;condition;)

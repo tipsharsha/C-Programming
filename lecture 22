@@ -1,0 +1,3 @@
+If partially initialised it will take 0 or /0
+a struct can be made to point towards a simlar struct var
+paddin happens in struct cause everything needs to be of same size

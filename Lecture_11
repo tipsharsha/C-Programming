@@ -1,0 +1,13 @@
+Charcter i/o using getchar() and putchar()
+getchar() accepts any charcter keyed in including RETURN and TAB
+loops and functions will be in Lab quiz
+putchar() prints the variable
+gets() gives input for a string and puts is for string input
+gets (gets only string) vs scanf(all data)
+exits at NL/EOF and thhis at WS/NL/EOF
+arr is defined like arr[50]
+#include - includes the content of an alt file
+#define defines a macro
+there can be arg in macros
+liek #define square(x) x*x
+Control 

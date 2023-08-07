@@ -1,0 +1,6 @@
+compiling in linux
+gcc compiler 
+gcc [file].c
+compiles to same folder
+with [file].out
+to run ./[file].out

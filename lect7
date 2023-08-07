@@ -1,0 +1,45 @@
+User defined functions
+pow and sqrt in math.h
+gcc lab3-2.c -lm
+put ./a.out
+re using the program in same program or diff prog
+we use main??
+main()
+is a funcntion calls by naming and defined
+order desn't matter how we define it**
+cause main will start first
+2 types library func and user defined
+user defined have to be defined in the same program or make it a library
+call main in main and check
+rules for good coiding
+1 use meaningful names
+2 use indentation helps user understand
+3 use whitespaces before varaibles
+4 use blank lines
+5 don't duplicate tests
+Ex if (a%2==0)
+else is enough
+else if a%2 != 0 is not needed
+6 use semicolon more
+7 use prenthesis
+8 use comments
+$ Charc sets in C
+  alpha digits special white spaces 
+  all will have ASCII values
+$ tokens
+   reserved words shouldn't be used (lower case) ex goto and volatile
+   
+$ Rules 
+names(vars arrays functions) are case sens ,letter digits and underscor
+1st is letter or _
+can be of arb length
+can't be keyword
+case sens
+$ constants 
+primary
+ numeric > int and real
+ charc> chrac and str
+secondary
+ arrays pointers and structs
+ no computation using strings
+'' is for charc and "" is for string 

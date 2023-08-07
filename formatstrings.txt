@@ -1,0 +1,5 @@
+%d or %i for Positive or a negetiv string
+%f for a float
+%s for a string
+%u is for unsigned integer
+%c for unsigned charc

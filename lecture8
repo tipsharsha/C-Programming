@@ -1,0 +1,62 @@
+$Constants
+      \a alarm or beep
+      \b backspace
+      \f form feed
+      \n new line
+      \r carriage return
+  integer Constants
+   sequence of digits with - and +
+   32 bits goes from -2^31 to 2^31
+   first bit is for sign
+Charc Constants
+    '\n' new tab line
+   ASCII
+    65-90 A to Z
+    a-z 97-122
+    0-9 48-57
+    \0 0       
+  String Constants 
+  "india"
+  "I like C Programming"
+  'a' != "a"
+  'a' has a equivalent integer while "c" doesn't have one
+$Punctuations
+  most important
+  value of var can be canged while const can't be 
+  int normal int 4 bytes
+  short is 2
+  long 8 bytes
+format specifier
+   int %d
+   char %c
+   float %f
+   double %lf
+   unsigned int %u
+   long int %ld or li
+   long long int %lld or lli
+   long double %Lf
+$Expressions
+     Ex a+bmathematical Exp
+$Op
+Assignment Op
+syntax var = Expressions
+multiple assignment
+a=b='y'
+Compound assignment: x+=10 dont put space between them
+Arithmetic 
+% - modulus
+x-- same as x= x-1 or x++ same as x=x+1 (unary)
+BODMAS (operator precedence)
+unary                        R -> L
+Arithmetic mult div and reminder L->R
+arth add and minus L->R
+relational L->R
+equality L->R
+logical and L->R
+logical or L->R
+assignment R->L
+parenthesis can be used for priority
+modulus op gives remainder
+if number is negetive
+Arth op with Charc adds ASCII values
+x-- post decrement an d --x pre decrement

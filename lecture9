@@ -1,0 +1,18 @@
+special operator :comma
+printf will return number of charc when we define it to a var
+comma takes the last value for a var
+x = (y,z)
+x= z but it will run through y
+$ Dereference and address
+arth with only real or float point operands is real arth
+since floats are aprox it
+mixed is one int and other is real 25/10.0 = 2.5
+Implicit in background 2 types of data are added
+explicit is temporarily the data is changed (promoted) and used to compute other data value
+Ex:
+int a,b;
+a=10;
+
+b=25;
+double x = (double)b/a
+we get value of x to be 2.5
